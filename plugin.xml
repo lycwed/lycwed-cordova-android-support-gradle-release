@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin xmlns="http://www.phonegap.com/ns/plugins/1.0"
         xmlns:android="http://schemas.android.com/apk/res/android"
-        id="lywed-cordova-android-support-gradle-release"
-        version="1.0.0">
+        id="lycwed-cordova-android-support-gradle-release"
+        version="1.0.1">
 
-    <name>lywed-cordova-android-support-gradle-release</name>
+    <name>lycwed-cordova-android-support-gradle-release</name>
     <description>Cordova/Phonegap plugin to align various versions of the Android Support libraries specified by other plugins to the latest release version</description>
     <author>Yves Lechevalier</author>
 

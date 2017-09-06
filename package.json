@@ -1,6 +1,6 @@
 {
-  "name": "lywed-cordova-android-support-gradle-release",
-  "version": "1.0.0",
+  "name": "lycwed-cordova-android-support-gradle-release",
+  "version": "1.0.1",
   "description": "Cordova/Phonegap plugin to align various versions of the Android Support libraries specified by other plugins to the latest release version",
   "author": "Yves Lechevalier",
   "license": "MIT",
